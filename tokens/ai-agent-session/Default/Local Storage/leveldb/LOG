@@ -1,0 +1,5 @@
+2025/07/28-22:28:39.450 28c04 Creating DB /Users/mack121/Desktop/whtsapp_msnger/tokens/ai-agent-session/Default/Local Storage/leveldb since it was missing.
+2025/07/28-22:28:39.524 28c04 Reusing MANIFEST /Users/mack121/Desktop/whtsapp_msnger/tokens/ai-agent-session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/29-08:46:10.163 28c04 Level-0 table #5: started
+2025/07/29-08:46:10.198 28c04 Level-0 table #5: 17903 bytes OK
+2025/07/29-08:46:10.256 28c04 Delete type=0 #3
