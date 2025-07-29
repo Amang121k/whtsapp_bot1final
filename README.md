@@ -110,3 +110,23 @@ curl -X POST http://localhost:3000/simulate-self \
 ---
 
 ✅ Done! Your AI agent is now ready for action.
+ 
+# 💬 WhatsApp Messenger Bot
+
+A powerful Python-based WhatsApp automation bot that simulates human-like messaging behavior. Perfect for learning, experimenting with Twilio/WhatsApp APIs, or personal automation tasks.
+
+---
+
+## 🚀 Features
+
+- ✅ Send & receive WhatsApp messages
+- ✅ Automatic replies based on keywords
+- ✅ Easy-to-configure message triggers
+- ✅ Extendable with custom Python logic
+- ✅ Clean & modular codebase
+
+---
+
+## 📁 Project Structure
+
+
